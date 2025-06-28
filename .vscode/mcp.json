@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-mcp-server-40bfdc1f": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "tsx", "/home/fer/Projects/hello-msp/main.ts"]
+    }
+  }
+}
